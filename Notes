@@ -1,0 +1,20 @@
+Create an api for Products
+
+it has 4 Routs(/products , /orders ,/product/id ,orders/id)
+
+/products
+* get
+* post
+
+/orders
+* get
+* post
+
+/products/id
+* get
+* patch
+* delete
+
+/orders/id
+* get
+* delete
